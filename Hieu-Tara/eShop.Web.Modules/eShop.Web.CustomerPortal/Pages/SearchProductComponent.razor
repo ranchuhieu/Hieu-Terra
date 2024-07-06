@@ -1,0 +1,78 @@
+﻿@page "/"
+@page "/products"
+
+@inject ISearchProductUseCase searchProduct
+
+<h3>Tìm kiếm sản phẩm theo tên</h3>
+<br />
+
+<SearchBarComponent OnSearch="HandelSearch"></SearchBarComponent>
+
+<br />
+<!--hiển thị theo dạng lưới-->
+<h4>Hiển thị dạng lưới</h4>
+<hr />
+@if(products!=null && products.Count()>0)
+{
+    <div class="row">
+        @foreach (var product in products)
+        {
+            <ProductCartComponent product="product"></ProductCartComponent>
+        }
+    </div>
+}
+else
+{
+    <text>No Product Found.</text>
+}
+<!--hiển thị dạng table-->
+
+<h4>Hiện thị dạng bảng</h4>
+<hr />
+
+@if (products != null && products.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered table-hover">
+            <!--Tiêu đề bảng-->
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Tên sản phẩm</th>
+                    <th scope="col">Thương hiệu</th>
+                    <th scope="col">Giá</th>
+                </tr>
+            </thead>
+            <!--Body-->
+            <tbody>
+                @foreach (var prod in products)
+                {
+                    <tr>
+                        <td>@prod.Name</td>
+                        <td>@prod.Brand</td>
+                        <td>@prod.Price.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>Không tìm thấy sản phẩm.</p>
+}
+
+@code {
+    private IEnumerable<Product> products;
+
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        products = searchProduct.Execute();
+    }
+    private void HandelSearch(string filter)
+    {
+        products= searchProduct.Execute(filter);
+    }
+}

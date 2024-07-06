@@ -1,0 +1,53 @@
+﻿
+
+@using BanHangHieuTerraum.Web.CustomerPortal.ViewModels
+
+@page "/placeorder"
+
+@inject NavigationManager navigationManager
+@inject IViewShoppingCartUserCase viewShoppingCartUserCase
+@inject IPlaceOrderUserCase PlaceOrderUserCase
+
+<h3>Placing Order</h3>
+<br />
+
+@if(order !=null)
+{
+    <div class="row">
+        <div class="col">
+           <CustomerFormComponent OnCustomerInforSubmited="HandleCustomerInforSubmitted"></CustomerFormComponent>
+        </div>
+        <div class="col">
+            <OrderSummarryComponent order="order" HidePlaceOrder="true"></OrderSummarryComponent>
+        </div>
+    </div>
+}
+
+@code {
+    private Order order;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            order = await viewShoppingCartUserCase.Execute();
+            StateHasChanged();
+
+        }
+
+    }
+    private async void HandleCustomerInforSubmitted(CustomerViewModel customer)
+    {
+        var mapper = new AutoMapper.MapperConfiguration(cfg => cfg.CreateMap<CustomerViewModel, Order>()).CreateMapper();
+        mapper.Map<CustomerViewModel, Order>(customer, order);
+
+        var orderUniqueId= await PlaceOrderUserCase.Execute(order);
+        if (string.IsNullOrEmpty(orderUniqueId))
+        {
+            //todo display error
+        }
+        else
+        {
+            navigationManager.NavigateTo($"/orderconfirm/{orderUniqueId}");
+        }
+    }
+}

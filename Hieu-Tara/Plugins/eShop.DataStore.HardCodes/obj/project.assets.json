@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "eShop.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/eShop.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShop.CoreBusiness.dll": {}
+        }
+      },
+      "eShop.UseCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "eShop.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/eShop.UseCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eShop.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShop.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../../eShop.CoreBusiness/eShop.CoreBusiness.csproj",
+      "msbuildProject": "../../eShop.CoreBusiness/eShop.CoreBusiness.csproj"
+    },
+    "eShop.UseCase/1.0.0": {
+      "type": "project",
+      "path": "../../eShop.UseCase/eShop.UseCase.csproj",
+      "msbuildProject": "../../eShop.UseCase/eShop.UseCase.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "eShop.UseCase >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.DataStore.HardCodes\\eShop.DataStore.HardCodes.csproj",
+      "projectName": "eShop.DataStore.HardCodes",
+      "projectPath": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.DataStore.HardCodes\\eShop.DataStore.HardCodes.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.DataStore.HardCodes\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Blazor\\Hieu-Tara\\eShop.UseCase\\eShop.UseCase.csproj": {
+              "projectPath": "D:\\Blazor\\Hieu-Tara\\eShop.UseCase\\eShop.UseCase.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

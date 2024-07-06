@@ -1,0 +1,62 @@
+﻿@page "/cart"
+
+@inject IViewShoppingCartUserCase viewShoppingCartUserCase
+
+<!--View, Edit, Remove, Checkout-->
+<h3>Shopping Cart</h3>
+<br />
+@if(order!=null && order.LineItems!=null && order.LineItems.Count>0)
+{
+    <div class="row">
+        <!--Sản phẩm-->
+        <div class="col-6">
+            <ul>
+                @for (int i = 0; i < order.LineItems.Count; i++)
+                {
+                    <LineItemComponent 
+                        LineItem="order.LineItems[i]"
+                        OnDeleteProduct="HandleDeleteProduct"
+                        OnUpdateQuantity="HandleUpdateQuatity">
+
+                    </LineItemComponent>
+
+                    @if (i < order.LineItems.Count - 1)
+                    {
+                        <li style="list-style:none">
+                            <hr />
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
+        <!--Order Sum-->
+        <div class="col">
+            <OrderSummarryComponent order="order"></OrderSummarryComponent>
+        </div>
+
+    </div>
+}
+
+@code {
+    private Order order;
+
+    //order in localStorage Javascript
+    //tương tác với c#
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            order = await viewShoppingCartUserCase.Execute();
+            StateHasChanged();
+        }
+    }
+    private void HandleDeleteProduct(Order order)
+    {
+        this.order = order;
+    }
+    private void HandleUpdateQuatity(Order order)
+    {
+        this.order = order;
+    }
+}

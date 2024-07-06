@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = eShop.Web.AdminPortal
+build_property.RootNamespace = eShop.Web.AdminPortal
+build_property.ProjectDir = D:\Blazor\Hieu-Tara\eShop.Web.Modules\eShop.Web.AdminPortal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Blazor\Hieu-Tara\eShop.Web.Modules\eShop.Web.AdminPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/Controls/OrderItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcT3JkZXJJdGVtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/Controls/OrderListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcT3JkZXJMaXN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/Pages/OrderDetailComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/Pages/OutstandingOrderComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3V0c3RhbmRpbmdPcmRlckNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/Pages/ProcessOrderComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvY2Vzc09yZGVyQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.AdminPortal/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0xeppabfw7

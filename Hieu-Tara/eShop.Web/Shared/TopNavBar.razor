@@ -1,0 +1,76 @@
+﻿<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rebeccapurple;">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">HIEU-terraAqua</a>
+      
+        <ul class="navbar-nav">
+            <li class="nav-item ml-auto">
+                <AuthorizeView>
+
+                    <NotAuthorized>
+
+                        <NavLink class="nav-link" href="products">
+                            Trang chủ
+                        </NavLink>
+                    </NotAuthorized>
+                </AuthorizeView>
+            </li>
+            <li class="nav-item ml-auto">
+                <AuthorizeView>
+
+                    <NotAuthorized>
+
+                        <NavLink class="nav-link" href="products">
+                            Shop Terra- Aqua
+                        </NavLink>
+                    </NotAuthorized>
+                </AuthorizeView>
+            </li>
+            <li class="nav-item ml-auto">
+                <AuthorizeView>
+
+                    <NotAuthorized>
+
+                        <NavLink class="nav-link" href="products">
+                            Liên hệ
+                        </NavLink>
+                    </NotAuthorized>
+                </AuthorizeView>
+            </li>
+            <AuthorizeView>
+                <Authorized>
+                    <li class="nav-item">
+                        <a class="nav-link" href="outstadingorders">Đơn đặt hàng nổi bật</a>
+                    </li>
+                    <li class="nav-item">
+                        <p class="nav-link">|</p>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="processedorder">Đơn đặt hàng đã xử lý</a>
+                    </li>
+                </Authorized>
+            </AuthorizeView>
+         
+            <li class="nav-item ml-auto">
+                <AuthorizeView>
+                    <Authorized >
+                        <NavLink class="nav-link" href="/logout">
+                            Đăng xuất
+                        </NavLink>
+                    </Authorized>
+                    <NotAuthorized>
+                        
+                        <NavLink class="nav-link" href="cart">
+                            <CartComponent></CartComponent>
+                        </NavLink>
+                    </NotAuthorized>
+                </AuthorizeView>
+            </li>
+        </ul>
+        
+    </div>
+</nav>
+
+
+@code {
+
+}

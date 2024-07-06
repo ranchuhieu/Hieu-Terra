@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = eShop.Web.CustomerPortal
+build_property.RootNamespace = eShop.Web.CustomerPortal
+build_property.ProjectDir = D:\Blazor\Hieu-Tara\eShop.Web.Modules\eShop.Web.CustomerPortal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Blazor\Hieu-Tara\eShop.Web.Modules\eShop.Web.CustomerPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/CartComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcQ2FydENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/CustomerFormComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcQ3VzdG9tZXJGb3JtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/LineItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcTGluZUl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/OrderSummarryComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcT3JkZXJTdW1tYXJyeUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/ProductCartComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdENhcnRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/ProductItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdEl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/OrderConfirmComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJDb25maXJtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/PlaceOrderComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhY2VPcmRlckNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/SearchProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoUHJvZHVjdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/ShoppingCartComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/ViewProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Byb2R1Y3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Blazor/Hieu-Tara/eShop.Web.Modules/eShop.Web.CustomerPortal/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-iak55tfv40

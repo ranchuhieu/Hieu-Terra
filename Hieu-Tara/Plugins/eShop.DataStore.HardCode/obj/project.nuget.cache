@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6bkqVWON7GCGaShadx+HF+z3sVdqfmGne83NJ0AKxM4fMkvNc3Zx0/Vt6cUl8T0mz22I+9kp4lfzq5BIk3TQqA==",
+  "success": true,
+  "projectFilePath": "D:\\Blazor\\Project\\eShop\\Plugins\\eShop.DataStore.HardCode\\eShop.DataStore.HardCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HuuDuc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HuuDuc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HuuDuc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+﻿   <div class="mb-3 row">
+        <div >
+            <label for="filter">Search: &nbsp;</label>
+       
+        </div>
+        <div class="col-auto">
+            <input type="text" class="form-control" id="filter" @bind-value="filter" />
+        </div>
+        <div class="col-auto">
+            <button @onclick="HandleSearch" type="button" class="btn btn-primary mb-2">Search</button>
+        </div>
+    </div>
+
+
+@code {
+    private string filter;
+    [Parameter]
+    public EventCallback<string> OnSearch{ get; set; }
+    private void HandleSearch()
+    {
+        OnSearch.InvokeAsync(filter);
+    }
+}

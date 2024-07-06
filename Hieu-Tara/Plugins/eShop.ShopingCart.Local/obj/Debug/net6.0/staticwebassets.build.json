@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "2+GITUUiTTGzJxH2F3fS0y4uJetnZu4Rv4hNtHCMge8=",
+  "Source": "eShop.ShopingCart.LocalStorage",
+  "BasePath": "_content/eShop.ShopingCart.LocalStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "eShop.ShopingCart.LocalStorage\\wwwroot",
+      "Source": "eShop.ShopingCart.LocalStorage",
+      "ContentRoot": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/eShop.ShopingCart.LocalStorage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\background.png",
+      "SourceId": "eShop.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/eShop.ShopingCart.LocalStorage",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "eShop.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/eShop.ShopingCart.LocalStorage",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Blazor\\Hieu-Tara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\component\\bannercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\component\\bannercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD6048-5F84-4B50-BE7A-62955FC9CFFE}|Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj|d:\\blazor\\hieu-tara\\plugins\\eshop.statestore.di\\shoppingcartstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD6048-5F84-4B50-BE7A-62955FC9CFFE}|Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj|solutionrelative:plugins\\eshop.statestore.di\\shoppingcartstatestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj|d:\\blazor\\hieu-tara\\eshop.web.modules\\eshop.web.customerportal\\controls\\cartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\cartcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|d:\\blazor\\hieu-tara\\eshop.web\\component\\bannercomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\eShop.Web.csproj|solutionrelative:eshop.web\\component\\bannercomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|d:\\blazor\\hieu-tara\\demdapper\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A68B73D-47BC-4C18-A484-A719AEDCC6C2}|DemDapper\\DemDapper.csproj|solutionrelative:demdapper\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\eShop.CoreBusiness.csproj|d:\\blazor\\hieu-tara\\eshop.corebusiness\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\eShop.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\eShop.DataStore.HardCodes.csproj|d:\\blazor\\hieu-tara\\plugins\\eshop.datastore.hardcodes\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52B7074-AD81-4BDF-9AFA-9C09484715B5}|Plugins\\eShop.DataStore.HardCodes\\eShop.DataStore.HardCodes.csproj|solutionrelative:plugins\\eshop.datastore.hardcodes\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T15:53:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eShop.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eShop.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T15:53:46.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "eShop.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "eShop.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T15:31:21.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartComponent.razor",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\CartComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T15:09:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopNavBar.razor",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T15:04:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BannerComponent.razor",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Component\\BannerComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Component\\BannerComponent.razor",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Component\\BannerComponent.razor",
+              "RelativeToolTip": "eShop.Web\\Component\\BannerComponent.razor",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAALAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T14:59:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BannerComponent.css",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Component\\BannerComponent.css",
+              "RelativeDocumentMoniker": "eShop.Web\\Component\\BannerComponent.css",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\Component\\BannerComponent.css",
+              "RelativeToolTip": "eShop.Web\\Component\\BannerComponent.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-22T14:59:48.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "eShop.Web\\appsettings.json",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\appsettings.json",
+              "RelativeToolTip": "eShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T15:38:07.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\App.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\App.razor",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.Web\\App.razor",
+              "RelativeToolTip": "eShop.Web\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T15:38:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\DemDapper\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DemDapper\\DataAccess.cs",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\DemDapper\\DataAccess.cs",
+              "RelativeToolTip": "DemDapper\\DataAccess.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:37:39.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\eShop.CoreBusiness\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\Order.cs",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\eShop.CoreBusiness\\Model\\Order.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:37:45.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartStateStore.cs",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "RelativeToolTip": "Plugins\\eShop.StateStore.DI\\ShoppingCartStateStore.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:37:31.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "ToolTip": "D:\\Blazor\\Hieu-Tara\\Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "RelativeToolTip": "Plugins\\eShop.DataStore.HardCodes\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:37:20.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

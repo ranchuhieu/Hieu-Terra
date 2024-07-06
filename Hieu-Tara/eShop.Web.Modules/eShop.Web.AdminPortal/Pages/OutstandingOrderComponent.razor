@@ -1,0 +1,21 @@
+﻿@inject IViewOutStandingOrderUserCase viewOutstandingOrderUserCase
+@page "/outstadingorders"
+@page "/admin"
+
+@attribute [Authorize]
+
+<h3>Outstanding Orders </h3>
+<br />
+<OrderListComponent Orders="orders"></OrderListComponent>
+
+
+@code {
+    private IEnumerable<Order> orders;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        orders = viewOutstandingOrderUserCase.Execute();
+    }
+
+}

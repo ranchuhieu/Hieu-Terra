@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eShop.UseCase\eShop.UseCase.csproj" />
+    <ProjectReference Include="..\eShop.Web.Modules\eShop.Web.AdminPortal\eShop.Web.AdminPortal.csproj" />
+    <ProjectReference Include="..\eShop.Web.Modules\eShop.Web.CustomerPortal\eShop.Web.CustomerPortal.csproj" />
+    <ProjectReference Include="..\Plugins\eShop.DataStore.SQL.Dapper\eShop.DataStore.SQL.Dapper.csproj" />
+    <ProjectReference Include="..\Plugins\eShop.ShopingCart.Local\eShop.ShopingCart.LocalStorage.csproj" />
+    <ProjectReference Include="..\Plugins\eShop.StateStore.DI\eShop.StateStore.DI.csproj" />
+  </ItemGroup>
+
+</Project>
